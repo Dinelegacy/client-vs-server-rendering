@@ -1,4 +1,4 @@
-# Project 1 – Client-Side Rendering vs Server-Side Rendering
+# Client-Side Rendering vs Server-Side Rendering
 
 ## Overview
 
